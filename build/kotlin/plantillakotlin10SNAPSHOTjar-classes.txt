@@ -1,0 +1,1 @@
+/home/natalia/Escritorio/proyectos/2324-u5-5-3-genericos-naatii/build/classes/kotlin/main/MainKt.class:/home/natalia/Escritorio/proyectos/2324-u5-5-3-genericos-naatii/build/classes/kotlin/main/Pila.class
